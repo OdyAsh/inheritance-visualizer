@@ -119,7 +119,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="04-11 - Part 2" id="giO4hryKvUKbIDszYwne">
-    <mxGraphModel dx="438" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="228" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="fpyfKVo7HN-FpZvwdbI7-0" />
         <mxCell id="fpyfKVo7HN-FpZvwdbI7-1" parent="fpyfKVo7HN-FpZvwdbI7-0" />
@@ -138,7 +138,7 @@
         <mxCell id="fpyfKVo7HN-FpZvwdbI7-5" parent="fpyfKVo7HN-FpZvwdbI7-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;textDirection=rtl;strokeWidth=3;strokeColor=light-dark(#CCCCCC,#CCCCCC);" value="التارِك" vertex="1">
           <mxGeometry height="80" width="160" x="959.67" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="fpyfKVo7HN-FpZvwdbI7-6" parent="fpyfKVo7HN-FpZvwdbI7-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;textDirection=rtl;strokeColor=light-dark(#FF3399,#FF3399);" value="الابنة&lt;div&gt;&lt;font&gt;1/3&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="fpyfKVo7HN-FpZvwdbI7-6" parent="fpyfKVo7HN-FpZvwdbI7-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;textDirection=rtl;strokeColor=light-dark(#FF3399,#FF3399);" value="الابنة&lt;div&gt;&lt;font&gt;1/3&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px; color: light-dark(rgb(0, 204, 0), rgb(0, 204, 0));&quot;&gt;النهائي: 1/2&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="80" x="879.67" y="522" as="geometry" />
         </mxCell>
         <mxCell id="fpyfKVo7HN-FpZvwdbI7-7" edge="1" parent="fpyfKVo7HN-FpZvwdbI7-1" source="fpyfKVo7HN-FpZvwdbI7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;textDirection=rtl;" target="fpyfKVo7HN-FpZvwdbI7-8" value="">
@@ -147,7 +147,7 @@
             <mxPoint x="1179.67" y="522" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpyfKVo7HN-FpZvwdbI7-8" parent="fpyfKVo7HN-FpZvwdbI7-1" style="rounded=1;whiteSpace=wrap;html=1;textDirection=rtl;strokeColor=light-dark(#FF3399,#FF3399);" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;الابنة&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;1/3&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="fpyfKVo7HN-FpZvwdbI7-8" parent="fpyfKVo7HN-FpZvwdbI7-1" style="rounded=1;whiteSpace=wrap;html=1;textDirection=rtl;strokeColor=light-dark(#FF3399,#FF3399);" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;الابنة&lt;/span&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;1/3&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 15px; color: light-dark(rgb(0, 204, 0), rgb(0, 204, 0));&quot;&gt;النهائي: 1/2&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="80" x="1119.67" y="522" as="geometry" />
         </mxCell>
         <mxCell id="fpyfKVo7HN-FpZvwdbI7-9" edge="1" parent="fpyfKVo7HN-FpZvwdbI7-1" source="fpyfKVo7HN-FpZvwdbI7-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;textDirection=rtl;" target="fpyfKVo7HN-FpZvwdbI7-11" value="">
@@ -156,7 +156,7 @@
         <mxCell id="fpyfKVo7HN-FpZvwdbI7-10" parent="fpyfKVo7HN-FpZvwdbI7-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;textDirection=rtl;strokeWidth=3;strokeColor=light-dark(#CCCCCC,#CCCCCC);" value="التارِك" vertex="1">
           <mxGeometry height="80" width="160" x="1359.67" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="fpyfKVo7HN-FpZvwdbI7-11" parent="fpyfKVo7HN-FpZvwdbI7-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;textDirection=rtl;strokeColor=light-dark(#FF3399,#FF3399);" value="الابنة&lt;div&gt;1/2&lt;/div&gt;" vertex="1">
+        <mxCell id="fpyfKVo7HN-FpZvwdbI7-11" parent="fpyfKVo7HN-FpZvwdbI7-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;textDirection=rtl;strokeColor=light-dark(#FF3399,#FF3399);" value="الابنة&lt;div&gt;2/9&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px; color: light-dark(rgb(0, 204, 0), rgb(0, 204, 0));&quot;&gt;النهائي: 1/3&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="80" x="1279.67" y="522" as="geometry" />
         </mxCell>
         <mxCell id="fpyfKVo7HN-FpZvwdbI7-12" edge="1" parent="fpyfKVo7HN-FpZvwdbI7-1" source="fpyfKVo7HN-FpZvwdbI7-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;textDirection=rtl;" target="fpyfKVo7HN-FpZvwdbI7-13" value="">
@@ -165,10 +165,10 @@
             <mxPoint x="1579.67" y="522" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpyfKVo7HN-FpZvwdbI7-13" parent="fpyfKVo7HN-FpZvwdbI7-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;textDirection=rtl;strokeColor=light-dark(#FF3399,#FF3399);" value="الابنة&lt;div&gt;1/4&lt;/div&gt;" vertex="1">
+        <mxCell id="fpyfKVo7HN-FpZvwdbI7-13" parent="fpyfKVo7HN-FpZvwdbI7-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;textDirection=rtl;strokeColor=light-dark(#FF3399,#FF3399);" value="الابنة&lt;div&gt;2/9&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px; color: light-dark(rgb(0, 204, 0), rgb(0, 204, 0));&quot;&gt;النهائي: 1/3&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="80" x="1479.67" y="522" as="geometry" />
         </mxCell>
-        <mxCell id="fpyfKVo7HN-FpZvwdbI7-14" parent="fpyfKVo7HN-FpZvwdbI7-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;textDirection=rtl;strokeColor=light-dark(#FF3399,#FF3399);" value="الابنة&lt;br&gt;&lt;div&gt;1/4&lt;/div&gt;" vertex="1">
+        <mxCell id="fpyfKVo7HN-FpZvwdbI7-14" parent="fpyfKVo7HN-FpZvwdbI7-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;textDirection=rtl;strokeColor=light-dark(#FF3399,#FF3399);" value="الابنة&lt;div&gt;2/9&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px; color: light-dark(rgb(0, 204, 0), rgb(0, 204, 0));&quot;&gt;النهائي: 1/3&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="80" x="1599.67" y="522" as="geometry" />
         </mxCell>
         <mxCell id="fpyfKVo7HN-FpZvwdbI7-15" edge="1" parent="fpyfKVo7HN-FpZvwdbI7-1" source="fpyfKVo7HN-FpZvwdbI7-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;textDirection=rtl;" target="fpyfKVo7HN-FpZvwdbI7-14" value="">
@@ -192,27 +192,6 @@
         <mxCell id="fpyfKVo7HN-FpZvwdbI7-23" parent="fpyfKVo7HN-FpZvwdbI7-1" style="text;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;horizontal=1;html=1;spacing=2;textDirection=rtl;" value="&lt;div style=&quot;line-height: 140%;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;مثال 2#&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="140" x="1369.67" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="fpyfKVo7HN-FpZvwdbI7-24" edge="1" parent="fpyfKVo7HN-FpZvwdbI7-1" source="fpyfKVo7HN-FpZvwdbI7-25" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;textDirection=rtl;" target="fpyfKVo7HN-FpZvwdbI7-26" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="fpyfKVo7HN-FpZvwdbI7-25" parent="fpyfKVo7HN-FpZvwdbI7-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;textDirection=rtl;strokeWidth=3;strokeColor=light-dark(#CCCCCC,#CCCCCC);" value="التارِك" vertex="1">
-          <mxGeometry height="80" width="160" x="959.6700000000001" y="840" as="geometry" />
-        </mxCell>
-        <mxCell id="fpyfKVo7HN-FpZvwdbI7-26" parent="fpyfKVo7HN-FpZvwdbI7-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;textDirection=rtl;strokeColor=light-dark(#007FFF,#007FFF);" value="الأب&lt;div&gt;&lt;font&gt;2/3&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="80" x="879.6700000000001" y="680" as="geometry" />
-        </mxCell>
-        <mxCell id="fpyfKVo7HN-FpZvwdbI7-27" edge="1" parent="fpyfKVo7HN-FpZvwdbI7-1" source="fpyfKVo7HN-FpZvwdbI7-25" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;curved=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;textDirection=rtl;" target="fpyfKVo7HN-FpZvwdbI7-28" value="">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1169.67" y="952" as="sourcePoint" />
-            <mxPoint x="1179.67" y="982" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fpyfKVo7HN-FpZvwdbI7-28" parent="fpyfKVo7HN-FpZvwdbI7-1" style="rounded=1;whiteSpace=wrap;html=1;textDirection=rtl;strokeColor=light-dark(#FF3399,#FF3399);" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;الأم&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;1/3&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="80" x="1119.67" y="680" as="geometry" />
-        </mxCell>
-        <mxCell id="fpyfKVo7HN-FpZvwdbI7-29" parent="fpyfKVo7HN-FpZvwdbI7-1" style="text;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;horizontal=1;html=1;spacing=2;textDirection=rtl;" value="&lt;div style=&quot;line-height: 140%;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;مثال 3#&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="140" x="969.67" y="640" as="geometry" />
-        </mxCell>
         <mxCell id="fpyfKVo7HN-FpZvwdbI7-30" edge="1" parent="fpyfKVo7HN-FpZvwdbI7-1" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="880" y="640" as="sourcePoint" />
@@ -228,17 +207,11 @@
         <mxCell id="jlkJwbJUp27lFzcVaju5-0" parent="fpyfKVo7HN-FpZvwdbI7-1" style="text;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=19;horizontal=1;html=1;spacing=2;textDirection=rtl;fontStyle=1" value="&lt;div style=&quot;line-height: 140%;&quot;&gt;&lt;font&gt;قسم الآية 2#&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="140" x="1209.67" as="geometry" />
         </mxCell>
-        <mxCell id="xiGSpGoU8_YxWAtq3ugj-0" edge="1" parent="fpyfKVo7HN-FpZvwdbI7-1" style="endArrow=none;html=1;rounded=0;strokeColor=light-dark(#FF0000,#FF0000);strokeWidth=2;" value=" ">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1610" y="850" as="sourcePoint" />
-            <mxPoint x="940" y="320" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="kkVhfEVdnUFNKzWnohdo-0" parent="fpyfKVo7HN-FpZvwdbI7-1" style="text;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;horizontal=1;html=1;spacing=2;textDirection=rtl;" value="&lt;div style=&quot;line-height: 140%;&quot;&gt;باقي التركة (أي، 1/3) &lt;font style=&quot;color: light-dark(rgb(0, 204, 0), rgb(0, 204, 0));&quot;&gt;توزع عليهم&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="110.33" x="1119.67" y="370" as="geometry" />
         </mxCell>
-        <mxCell id="xiGSpGoU8_YxWAtq3ugj-1" edge="1" parent="fpyfKVo7HN-FpZvwdbI7-1" style="endArrow=none;html=1;rounded=0;strokeColor=light-dark(#FF0000,#FF0000);strokeWidth=2;" value=" ">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="910" y="930" as="sourcePoint" />
-            <mxPoint x="1590" y="330" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="kkVhfEVdnUFNKzWnohdo-1" parent="fpyfKVo7HN-FpZvwdbI7-1" style="text;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;horizontal=1;html=1;spacing=2;textDirection=rtl;" value="&lt;div style=&quot;line-height: 140%;&quot;&gt;باقي التركة (أي، 1/3) &lt;font style=&quot;color: light-dark(rgb(0, 204, 0), rgb(0, 204, 0));&quot;&gt;توزع عليهم&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="110.33" x="1530.0000000000002" y="374" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
